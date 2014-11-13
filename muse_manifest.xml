@@ -1,8 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415916206442" iceMarkupVersion="2">
-  <folder name="assets">
-    <file name="edq2.png" crc="15688957" mt="1415809321000"/>
-    <file name="vtr2.png" crc="3916242236" mt="1415809329000"/>
-  </folder>
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415917258137" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3788484631"/>
     <file name="index.css" crc="339775057" ref="index"/>
