@@ -1,7 +1,7 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415917258137" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415917798056" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3788484631"/>
-    <file name="index.css" crc="339775057" ref="index"/>
+    <file name="index.css" crc="481127232" ref="index"/>
     <file name="school.css" crc="4032056557" ref="school"/>
   </folder>
   <folder name="scripts">
@@ -37,6 +37,6 @@
     <file name="youtube-crop-u1630.jpg" crc="3990049869" ref="index"/>
     <file name="u1375-4.png" crc="87696897" ref="school"/>
   </folder>
-  <file name="index.html" crc="34149609" mt="1415916165762" redirect="true"/>
-  <file name="school.html" crc="4218595918" mt="1415841906851" redirect="true"/>
+  <file name="index.html" crc="4221011298" mt="1415917773340" redirect="true"/>
+  <file name="school.html" crc="4218595918" mt="1415917625022" redirect="true"/>
 </manifest>

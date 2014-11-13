@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #408E51;
+	color: #00001C;
+	background-color: #AD6B40;
 }
 
 .html
@@ -113,7 +113,7 @@
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
-	padding-bottom: 51px;
+	padding-bottom: 61px;
 	margin-left: 159px;
 	top: -323px;
 	margin-bottom: -271px;
@@ -133,8 +133,8 @@
 	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 54px;
-	left: 63px;
+	margin-top: 44px;
+	left: 69px;
 }
 
 #u154
