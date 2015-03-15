@@ -1,58 +1,53 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1426387236266" iceMarkupVersion="2">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1426396828722" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="223960798"/>
-    <file name="index.css" crc="469123513" ref="index"/>
-    <file name="school.css" crc="3911889846" ref="school"/>
-    <file name="season-4.css" crc="165970779" ref="season-4"/>
-    <file name="plots.css" crc="165970779" ref="plots"/>
-    <file name="bios.css" crc="165970779" ref="bios"/>
-    <file name="blue-bloods-wiki.css" crc="165970779" ref="blue-bloods-wiki"/>
-    <file name="season-1.css" crc="165970779" ref="season-1"/>
-    <file name="season-3.css" crc="165970779" ref="season-3"/>
-    <file name="season-2.css" crc="165970779" ref="season-2"/>
-    <file name="season-5.css" crc="165970779" ref="season-5"/>
+    <file name="site_global.css" crc="471362039"/>
+    <file name="index.css" crc="3948226317" ref="index"/>
+    <file name="season-4.css" crc="253568636" ref="season-4"/>
+    <file name="season-1.css" crc="529573592" ref="season-1"/>
+    <file name="season-3.css" crc="4060875205" ref="season-3"/>
+    <file name="season-2.css" crc="4209695381" ref="season-2"/>
+    <file name="season-5.css" crc="3818598474" ref="season-5"/>
+    <file name="biographies.css" crc="105333988" ref="biographies"/>
+    <file name="danny-reagan.css" crc="4185889930" ref="danny-reagan"/>
+    <file name="other-characters.css" crc="4027731285" ref="other-characters"/>
+    <file name="henry-reagan.css" crc="4109072961" ref="henry-reagan"/>
+    <file name="erin-reagan.css" crc="193130315" ref="erin-reagan"/>
+    <file name="frank-reagan.css" crc="191927097" ref="frank-reagan"/>
+    <file name="seasons.css" crc="130477556" ref="seasons"/>
+    <file name="jamie-reagan.css" crc="3961263142" ref="jamie-reagan"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
-    <file name="museutils.js" crc="479751881" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
-    <file name="jquery.musemenu.js" crc="4120181458" ref="index:school"/>
-    <file name="webpro.js" crc="3930024250" ref="index"/>
-    <file name="jquery.watch.js" crc="4232581965" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
-    <file name="musewpslideshow.js" crc="4014282895" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4213181908" ref="index"/>
-    <file name="touchswipe.js" crc="4151298246" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="445554118" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:season-1:season-2:season-3:season-4:season-5:biographies:seasons:danny-reagan:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="museutils.js" crc="479751881" ref="index:season-1:season-2:season-3:season-4:season-5:biographies:seasons:danny-reagan:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="webpro.js" crc="3930024250" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:season-1:season-2:season-3:season-4:season-5:biographies:seasons:danny-reagan:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="pie.js" crc="3827607177" ref="index:biographies:seasons:season-1:season-5:season-4:season-3:season-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
   </folder>
   <folder name="images">
-    <file name="stock1.jpg" crc="4166329903" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="hmfrpcl.jpg" crc="4125781187" ref="index"/>
-    <file name="reddit alt.jpg" crc="77528063" ref="index"/>
-    <file name="skype alt.jpg" crc="4089593976" ref="index"/>
-    <file name="steam.jpg" crc="278023246" ref="index"/>
-    <file name="tumblr alt.jpg" crc="279467384" ref="index"/>
-    <file name="twitter new.jpg" crc="4269906006" ref="index"/>
-    <file name="youtube.jpg" crc="232133335" ref="index"/>
-    <file name="reddit alt-crop-u1553.jpg" crc="206666078" ref="index"/>
-    <file name="skype alt-crop-u1594.jpg" crc="21121980" ref="index"/>
-    <file name="steam-crop-u1603.jpg" crc="4011854139" ref="index"/>
-    <file name="tumblr alt-crop-u1612.jpg" crc="3792960423" ref="index"/>
-    <file name="twitter new-crop-u1621.jpg" crc="3875900720" ref="index"/>
-    <file name="youtube-crop-u1630.jpg" crc="3990049869" ref="index"/>
-    <file name="u1375-4.png" crc="3927591724" ref="school"/>
+    <file name="blank.gif" crc="4208392903" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="loading.gif" crc="3815509949" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="placeholder.jpg" crc="4051531941" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="wallpaper.jpg" crc="4021398680" ref="index:biographies:seasons:danny-reagan:season-1:season-5:season-4:season-3:season-2:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
+    <file name="placeholder-u701-fr.jpg" crc="318879781" ref="index:biographies:seasons:season-1:season-5:season-4:season-3:season-2"/>
+    <file name="placeholder-u225-fr.jpg" crc="10190895" ref="index:biographies:seasons:season-1:season-5:season-4:season-3:season-2"/>
+    <file name="images_no_image_jpg11.jpg" crc="214893250" ref="danny-reagan:jamie-reagan:other-characters:henry-reagan:erin-reagan:frank-reagan"/>
   </folder>
-  <file name="index.html" crc="88329819" mt="1426386835564" redirect="true"/>
-  <file name="school.html" crc="4253681299" mt="1426385844494" redirect="true"/>
-  <file name="blue-bloods-wiki.html" crc="295137487" mt="1426386403767" redirect="false"/>
-  <file name="bios.html" crc="191102027" mt="1426386407818" redirect="false"/>
-  <file name="plots.html" crc="3906580988" mt="1426386417860" redirect="false"/>
-  <file name="season-1.html" crc="4270918368" mt="1426386425996" redirect="false"/>
-  <file name="season-2.html" crc="63080930" mt="1426386431757" redirect="false"/>
-  <file name="season-3.html" crc="3789354275" mt="1426386438469" redirect="false"/>
-  <file name="season-4.html" crc="4184182758" mt="1426386447027" redirect="false"/>
-  <file name="season-5.html" crc="461108007" mt="1426386465725" redirect="false"/>
+  <file name="index.html" crc="6834718" mt="1426394925394" redirect="true"/>
+  <file name="season-1.html" crc="3932286072" mt="1426395962838" redirect="true"/>
+  <file name="season-2.html" crc="3838923946" mt="1426395967682" redirect="true"/>
+  <file name="season-3.html" crc="4259590855" mt="1426395979327" redirect="true"/>
+  <file name="season-4.html" crc="4186839859" mt="1426395983538" redirect="true"/>
+  <file name="season-5.html" crc="4241388212" mt="1426395991186" redirect="true"/>
+  <file name="biographies.html" crc="237787266" mt="1426395533842" redirect="true"/>
+  <file name="seasons.html" crc="515999833" mt="1426395591797" redirect="true"/>
+  <file name="danny-reagan.html" crc="459474803" mt="1426396516903" redirect="true"/>
+  <file name="jamie-reagan.html" crc="245367687" mt="1426396620595" redirect="true"/>
+  <file name="other-characters.html" crc="4007881436" mt="1426396596478" redirect="true"/>
+  <file name="henry-reagan.html" crc="3955262189" mt="1426396586507" redirect="true"/>
+  <file name="erin-reagan.html" crc="4018417412" mt="1426396579056" redirect="true"/>
+  <file name="frank-reagan.html" crc="4260338149" mt="1426396571887" redirect="true"/>
 </manifest>
