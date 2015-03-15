@@ -1,22 +1,30 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415918277801" iceMarkupVersion="2">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1426387236266" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="3788484631"/>
-    <file name="index.css" crc="481127232" ref="index"/>
-    <file name="school.css" crc="4032056557" ref="school"/>
+    <file name="site_global.css" crc="223960798"/>
+    <file name="index.css" crc="469123513" ref="index"/>
+    <file name="school.css" crc="3911889846" ref="school"/>
+    <file name="season-4.css" crc="165970779" ref="season-4"/>
+    <file name="plots.css" crc="165970779" ref="plots"/>
+    <file name="bios.css" crc="165970779" ref="bios"/>
+    <file name="blue-bloods-wiki.css" crc="165970779" ref="blue-bloods-wiki"/>
+    <file name="season-1.css" crc="165970779" ref="season-1"/>
+    <file name="season-3.css" crc="165970779" ref="season-3"/>
+    <file name="season-2.css" crc="165970779" ref="season-2"/>
+    <file name="season-5.css" crc="165970779" ref="season-5"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:school"/>
-    <file name="museutils.js" crc="3777594392" ref="index:school"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="index:school"/>
-    <file name="webpro.js" crc="474087315" ref="index"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:school"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:school"/>
-    <file name="musewpslideshow.js" crc="274584885" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="170414611" ref="index"/>
-    <file name="touchswipe.js" crc="100683906" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
+    <file name="museutils.js" crc="479751881" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="index:school"/>
+    <file name="webpro.js" crc="3930024250" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:school:blue-bloods-wiki:bios:plots:season-1:season-2:season-3:season-4:season-5"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index"/>
   </folder>
   <folder name="images">
     <file name="stock1.jpg" crc="4166329903" ref="index"/>
@@ -35,8 +43,16 @@
     <file name="tumblr alt-crop-u1612.jpg" crc="3792960423" ref="index"/>
     <file name="twitter new-crop-u1621.jpg" crc="3875900720" ref="index"/>
     <file name="youtube-crop-u1630.jpg" crc="3990049869" ref="index"/>
-    <file name="u1375-4.png" crc="87696897" ref="school"/>
+    <file name="u1375-4.png" crc="3927591724" ref="school"/>
   </folder>
-  <file name="index.html" crc="4221011298" mt="1415917773340" redirect="true"/>
-  <file name="school.html" crc="4218595918" mt="1415917625022" redirect="true"/>
+  <file name="index.html" crc="88329819" mt="1426386835564" redirect="true"/>
+  <file name="school.html" crc="4253681299" mt="1426385844494" redirect="true"/>
+  <file name="blue-bloods-wiki.html" crc="295137487" mt="1426386403767" redirect="false"/>
+  <file name="bios.html" crc="191102027" mt="1426386407818" redirect="false"/>
+  <file name="plots.html" crc="3906580988" mt="1426386417860" redirect="false"/>
+  <file name="season-1.html" crc="4270918368" mt="1426386425996" redirect="false"/>
+  <file name="season-2.html" crc="63080930" mt="1426386431757" redirect="false"/>
+  <file name="season-3.html" crc="3789354275" mt="1426386438469" redirect="false"/>
+  <file name="season-4.html" crc="4184182758" mt="1426386447027" redirect="false"/>
+  <file name="season-5.html" crc="461108007" mt="1426386465725" redirect="false"/>
 </manifest>
