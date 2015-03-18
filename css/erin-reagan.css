@@ -1,7 +1,7 @@
 .version.erin_reagan /* version checker */
 {
-	color: #00000B;
-	background-color: #82EF4B;
+	color: #0000F7;
+	background-color: #FB2F37;
 }
 
 .html
@@ -51,33 +51,9 @@
 	z-index: 4;
 }
 
-#u2286
-{
-	z-index: 5;
-	width: 1220px;
-	height: 474px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u2282
-{
-	z-index: 7;
-	width: 1220px;
-	height: 474px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
-}
-
 #u2284
 {
-	z-index: 9;
+	z-index: 5;
 	width: 1220px;
 	height: 474px;
 	border-style: none;
@@ -99,7 +75,7 @@
 
 #u2261-4
 {
-	z-index: 22;
+	z-index: 18;
 	width: 789px;
 	min-height: 91px;
 	background-color: transparent;
@@ -119,7 +95,7 @@
 
 #u2292
 {
-	z-index: 11;
+	z-index: 7;
 	width: 980px;
 	border-color: #000000;
 	background-color: #2866A3;
@@ -137,7 +113,7 @@
 
 #u2291-4
 {
-	z-index: 13;
+	z-index: 9;
 	width: 980px;
 	min-height: 44px;
 	background-color: transparent;
@@ -152,7 +128,7 @@
 
 #u2293
 {
-	z-index: 17;
+	z-index: 13;
 	width: 222px;
 	height: 1px;
 	border-color: #000000;
@@ -164,7 +140,7 @@
 
 #u2290-4
 {
-	z-index: 18;
+	z-index: 14;
 	width: 771px;
 	background-color: transparent;
 	text-align: center;
@@ -185,7 +161,7 @@
 
 #u2260
 {
-	z-index: 12;
+	z-index: 8;
 	width: 275px;
 	height: 275px;
 	border-color: #000000;
@@ -197,7 +173,7 @@
 
 #u2289-32
 {
-	z-index: 26;
+	z-index: 22;
 	width: 474px;
 	min-height: 270px;
 	background-color: transparent;
@@ -208,7 +184,7 @@
 
 #u2288-30
 {
-	z-index: 58;
+	z-index: 54;
 	width: 771px;
 	min-height: 236px;
 	background-color: transparent;
