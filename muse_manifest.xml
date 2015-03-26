@@ -1,7 +1,7 @@
-<manifest alg="2" build="44" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1426722004121" iceMarkupVersion="2">
+<manifest alg="2" build="44" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1427328912699" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="4133903569"/>
-    <file name="index.css" crc="3991031845" ref="index"/>
+    <file name="index.css" crc="307643054" ref="index"/>
     <file name="season-4.css" crc="355684715" ref="season-4"/>
     <file name="season-1.css" crc="4085057224" ref="season-1"/>
     <file name="season-3.css" crc="3846293749" ref="season-3"/>
@@ -15,7 +15,7 @@
     <file name="frank-reagan.css" crc="4205161959" ref="frank-reagan"/>
     <file name="seasons.css" crc="130477556" ref="seasons"/>
     <file name="jamie-reagan.css" crc="3992539348" ref="jamie-reagan"/>
-    <file name="school.css" crc="4159591423" ref="school"/>
+    <file name="school.css" crc="424399810" ref="school"/>
     <file name="blue-bloods-wiki.css" crc="273024808" ref="blue-bloods-wiki"/>
   </folder>
   <folder name="scripts">
@@ -56,7 +56,7 @@
     <file name="youtube-crop-u2455.jpg" crc="3990049869" ref="index"/>
     <file name="u2578-4.png" crc="3927591724" ref="school"/>
   </folder>
-  <file name="index.html" crc="3894387715" mt="1426605271876" redirect="true"/>
+  <file name="index.html" crc="27926379" mt="1427328827563" redirect="true"/>
   <file name="season-1.html" crc="43760187" mt="1426624985689" redirect="true"/>
   <file name="season-2.html" crc="458609720" mt="1426625077021" redirect="true"/>
   <file name="season-3.html" crc="4073028366" mt="1426625081656" redirect="true"/>
@@ -71,5 +71,5 @@
   <file name="erin-reagan.html" crc="4003320292" mt="1426606487267" redirect="true"/>
   <file name="frank-reagan.html" crc="4069707621" mt="1426606241745" redirect="true"/>
   <file name="blue-bloods-wiki.html" crc="216119578" mt="1426625675389" redirect="true"/>
-  <file name="school.html" crc="3839580044" mt="1426605409082" redirect="true"/>
+  <file name="school.html" crc="3994836698" mt="1427328698109" redirect="true"/>
 </manifest>
